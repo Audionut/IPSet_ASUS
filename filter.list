@@ -3,13 +3,14 @@ https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
-https://iplists.firehol.org/files/firehol_level2.netset
+https://iplists.firehol.org/files/firehol_level2.netset	
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_abusers_1d.netset
-https://iplists.firehol.org/files/firehol_abusers_30d.netset
 https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
+https://iplists.firehol.org/files/firehol_webserver.netset
+https://iplists.firehol.org/files/cleantalk_30d.ipset
