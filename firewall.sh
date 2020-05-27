@@ -3439,7 +3439,7 @@ case "$1" in
 				listurl="$customlisturl"
 				echo "[i] Custom Filter Detected: $customlisturl"
 			else
-				listurl="https://raw.githubusercontent.com/Adamm00/IPSet_ASUS/master/filter.list"
+				listurl="https://raw.githubusercontent.com/Audionut/IPSet_ASUS/master/filter.list"
 			fi
 		fi
 		curl -sI "$listurl" | grep -qE "HTTP/1.[01] [23].." || { echo "[*] 404 Error Detected - Stopping Banmalware"; echo; exit 1; }
