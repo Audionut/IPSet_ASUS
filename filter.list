@@ -9,8 +9,10 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
-https://iplists.firehol.org/files/firehol_abusers_1d.netset
+https://iplists.firehol.org/files/firehol_abusers_30d.netset
 https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/firehol_webserver.netset
 https://iplists.firehol.org/files/cleantalk_30d.ipset
+https://iplists.firehol.org/files/yoyo_adservers.ipset
+https://iplists.firehol.org/files/spamhaus_drop.netset
