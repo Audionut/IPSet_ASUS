@@ -1,6 +1,8 @@
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
+https://www.binarydefense.com/banlist.txt
+https://myip.ms/files/blacklist/csf/latest_blacklist.txt
 https://iplists.firehol.org/files/coinbl_hosts.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
@@ -17,6 +19,7 @@ https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
 https://iplists.firehol.org/files/nixspam.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
+https://iplists.firehol.org/files/tor_exits.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/voipbl.netset
 https://iplists.firehol.org/files/yoyo_adservers.ipset
